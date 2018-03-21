@@ -1,0 +1,13 @@
+{
+"companyName": "Lux Science",
+"productName": "Lesson 3 - Atom Exciting",
+"dataUrl": "Lesson_3_WebGL.data.unityweb",
+"asmCodeUrl": "Lesson_3_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Lesson_3_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Lesson_3_WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

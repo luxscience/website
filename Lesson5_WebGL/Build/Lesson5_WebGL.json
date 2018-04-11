@@ -1,0 +1,13 @@
+{
+"companyName": "Lux Science",
+"productName": "Lesson 1 - Atomic Structure",
+"dataUrl": "Lesson5_WebGL.data.unityweb",
+"asmCodeUrl": "Lesson5_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Lesson5_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Lesson5_WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

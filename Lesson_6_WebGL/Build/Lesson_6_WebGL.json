@@ -1,0 +1,13 @@
+{
+"companyName": "Lux Science",
+"productName": "Lesson 6",
+"dataUrl": "Lesson_6_WebGL.data.unityweb",
+"asmCodeUrl": "Lesson_6_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Lesson_6_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Lesson_6_WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
